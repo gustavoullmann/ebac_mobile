@@ -3,7 +3,7 @@ export const config = {
     port: 4723,
 
     // user: 'oauth-gustavoullmann-63877',
-    // key: 'ec3af841-d584-4a87-a993-938b24a8f031',
+    // key: ,
     // hostname: 'ondemand.us-west-1.saucelabs.com',
     // port: 443,
     // baseUrl: 'wd/hub',
